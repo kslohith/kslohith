@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on
+   - **Flask** 
+   - **Spring** 
    - **Microservices**
    - **Angular**
 - 🌱 I’m currently learning
