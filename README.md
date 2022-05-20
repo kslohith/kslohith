@@ -4,7 +4,7 @@
    - **Flask** 
    - **Spring** 
    - **Microservices**
-   - **React**
+   - **Angular**
 - 🌱 I’m currently learning
    - **React**
 - 💬 Ask me about 
