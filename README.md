@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on
-   - **Flask** 
-   - **Spring** 
+   - **Go** 
+   - **Kubernetes** 
    - **Microservices**
-   - **Angular**
-- 🌱 I’m currently learning
    - **React**
+- 🌱 I’m currently learning
+   - **Kubernetes**
 - 💬 Ask me about 
    - **Android**
 - 📫 How to reach me:
