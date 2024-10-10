@@ -21,11 +21,5 @@ I am currently pursuing my master's in computer science at Georgia Tech. I am an
 <a href=""><img alt="" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kslohith&show_icons=true&rank_icon=github&theme=one_dark_pro)
-     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kslohith&layout=compact&theme=algolia)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kslohith&theme=one_dark_pro)](https://git.io/streak-stats)
-
 
 
