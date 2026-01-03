@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Lohith
 
-I am currently pursuing my master's in computer science at Georgia Tech. I am an experienced software engineer with over 3 years of experience in companies like Cloudera, JP Morgan Chase & Citi. Currently I am working on building / researching systems to help accelerate machine learning / Databases. 
+I work on database internals and distributed systems.
 
 ## 👨‍💻 Languages
 
